@@ -1,0 +1,7 @@
+1- Django Rest Framework API Project introduction & Environment setup
+2- User account Registration
+3- Login/Setting up authentication (jwt)/(simple_jwt).
+4- Django Rest Framework CRUD Tutorial.
+5- API Documentatuion using SWAGGER UI.
+6- cors header 'access-control-alow-origin'. Fixing cors for react front-end.
+7- Deploying a django api to heroku server.
