@@ -1,7 +1,16 @@
 1- Django Rest Framework API Project introduction & Environment setup
+   pip install djangorestframework
 2- User account Registration
+  create a serializer class to take info.[email,username,password
 3- Login/Setting up authentication (jwt)/(simple_jwt).
+  using TokenObtainPairview, TokenRefreshView in project_directory/urls.py/ and permission classes for  setting up user authentication and authorization.
 4- Django Rest Framework CRUD Tutorial.
+  creating generic views using ListCreateView and retrieveUpdateDeleteView.
 5- API Documentatuion using SWAGGER UI.
-6- cors header 'access-control-alow-origin'. Fixing cors for react front-end.
-7- Deploying a django api to heroku server.
+  using Swagger UI for documentation. - pip install drf-yasg
+                                        include 'drf_yasg' in INSTALLED_APPS
+                                        make changes and configurations in project/directory/urls.py/
+                                        SWAGGER_SETTINGS
+
+
+6- THE SOURCE CODE IS WELL DOCUMENTED AND INDENTED AND IS READY TO USE.
